@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div>
 <!--깃허브 통계(사용언어)-->
   
-[![SunKyoung-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunKyoung-Yoon&show_icons=true&theme=dracula)](https://github.com/SunKyoung-Yoon/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunKyoung-Yoon&layout=compact)](https://github.com/SunKyoung-Yoon/github-readme-stats)
+[![SunKyoung-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunKyoung-Yoon&theme=dracula)](https://github.com/SunKyoung-Yoon/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunKyoung-Yoon&langs_count=10&layout=compact)](https://github.com/SunKyoung-Yoon/github-readme-stats)
 </div>
 
 <div>
@@ -43,8 +43,3 @@ Here are some ideas to get you started:
 <!--백준 티어-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jukha076)](https://solved.ac/jukha076/)
 </div>  
-  
-<!--사용언어 통계-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunKyoung-Yoon)](https://github.com/SunKyoung-Yoon/github-readme-stats)
--->
