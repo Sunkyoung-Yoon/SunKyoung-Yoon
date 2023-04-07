@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <div>
   
 <!--백준 티어-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jukha076)](https://solved.ac/jukha076/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jukha076)](https://solved.ac/jukha076)<br/>
 </div>  
